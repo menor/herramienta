@@ -6,3 +6,10 @@
 
 ### redux  
 - [redux-bees](https://github.com/cantierecreativo/redux-bees) Libreria para interactuar con JSON APIs desde redux, vale la pena ver como organiza las llamadas.
+
+
+### Git
+- [git flight rules](https://github.com/k88hudson/git-flight-rules) Chuleta de como hacer cosas con git, sobre todo control de crisis.
+
+### Node
+- [Node Best Practices](https://github.com/i0natan/nodebestpractices) Exhaustiva lista de buenas prácticas trabajando con Node.js.
