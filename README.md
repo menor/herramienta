@@ -17,3 +17,8 @@
 
 ### Web
 - [Inclusive Design Checklist](https://github.com/Heydon/inclusive-design-checklist) Aims to be the biggest checklist of inclusive design considerations for the web ever. Includes items for accessibility, performance, device support, interoperability, and language.
+
+### CSS
+- [Tests for styling](https://codepen.io/tomhodgins/post/useful-tests-for-js-powered-styling) This page is filled with JavaScript-based tests that are useful for styling, whether it's trying to target selectors CSS can't normally reach, or trying to use element queries or container queries.
+
+- [Responsive style](http://responsive.style/) This book attempts to document how CSS reprocessing works, provide explanations of the most useful CSS reprocessing techniques, and to offer syntax examples and the pieces required to make these techniques work.
