@@ -14,3 +14,6 @@
 
 ### Node
 - [Node Best Practices](https://github.com/i0natan/nodebestpractices) Exhaustiva lista de buenas prácticas trabajando con Node.js.
+
+### Web
+- [Inclusive Design Checklist](https://github.com/Heydon/inclusive-design-checklist) Aims to be the biggest checklist of inclusive design considerations for the web ever. Includes items for accessibility, performance, device support, interoperability, and language.
