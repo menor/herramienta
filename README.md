@@ -22,3 +22,6 @@
 - [Tests for styling](https://codepen.io/tomhodgins/post/useful-tests-for-js-powered-styling) This page is filled with JavaScript-based tests that are useful for styling, whether it's trying to target selectors CSS can't normally reach, or trying to use element queries or container queries.
 
 - [Responsive style](http://responsive.style/) This book attempts to document how CSS reprocessing works, provide explanations of the most useful CSS reprocessing techniques, and to offer syntax examples and the pieces required to make these techniques work.
+
+## Animation  
+- [Anime](https://github.com/juliangarnier/anime) is a lightweight JavaScript animation library. It works with any CSS Properties, individual CSS transforms, SVG or any DOM attributes, and JavaScript Objects.
