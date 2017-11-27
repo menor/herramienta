@@ -25,3 +25,6 @@
 
 ## Animation  
 - [Anime](https://github.com/juliangarnier/anime) is a lightweight JavaScript animation library. It works with any CSS Properties, individual CSS transforms, SVG or any DOM attributes, and JavaScript Objects.
+
+## Command Line  
+- [Jq](https://stedolan.github.io/jq/) It allows you to manipulate JSON API responses in the command line, pretty handy.
